@@ -17,10 +17,10 @@ Classification of Occluded Face Images Based on Sparse Representation based Clas
 
 ## Requirements
 
-- Pillow
-- numpy
-- opencv
-- matplotlib
+- Python 3.8
+- numpy 3.9
+- opencv 4.5
+- pillow 8.1.2
 
 ## Reference
 
